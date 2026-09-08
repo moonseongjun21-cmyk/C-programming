@@ -21,7 +21,7 @@ doubledb = 3.4;
 실습과제2
 아래코드에서 변수이름을 사용하지말고 포인터를 사용하여 같은
 결과가 나오도록 코드를 수정하시오.(예제1번참조)
-
+```
 #include <stdio.h>
 int main(void)
 {
@@ -46,7 +46,7 @@ int main(void)
     *연산자를 통해 메모리 공간의 값 구하기
     return0;
 }
-
+```
 
 
 실습과제3
@@ -56,6 +56,7 @@ int main(void)
 아래코드를 실행하면 오류가 발생하여 중단된다. 이유를 자세히 설명하라.
 int* 125의 값이 쓰레기값이기 때문입니다.
 
+```
 #include<stdio.h>
 intmain(void)
 {
@@ -64,6 +65,7 @@ intmain(void)
   printf("%d\n", *ptr);
   return0;
 }
+```
 
 
 
@@ -71,6 +73,7 @@ intmain(void)
 아래코드를 포인터를 이용한 간접참조방식의 코드로 필요한코드를
 추가 또는 수정하시오. 실행결과는 같아야한다.
 
+```
 #include<stdio.h>
 intmain(void)
 {
@@ -92,12 +95,13 @@ intmain(void)
   printf(“두정수의합: %d\n”, c + d); 
   return 0;
 }
+```
 
 
 
 실습문제5
 p284 문제1변형
-
+```
 #include <stdio.h>
 
 int main(void)
@@ -121,7 +125,7 @@ int main(void)
     a는 12, b는 15
     return 0;
 }
-
+```
 
 
 
