@@ -22,7 +22,7 @@ C언어에서문자를메모리에저장하는방식에대하여설명하라(아
 
 
 실습과제2
-'''
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #pragma warning(disable:6031)
@@ -44,7 +44,7 @@ int main(void)
 	}
 	return 0;
 }
-'''
+
 
 
 실습과제3
