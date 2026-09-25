@@ -64,5 +64,10 @@ char형 변수a의주소:xxxxxx
 int형 변수b의주소:xxxxxx
 double형 변수c의주소:xxxxxx
 
+<img width="2352" height="358" alt="스크린샷 2026-09-25 173003" src="https://github.com/user-attachments/assets/862e920e-0641-40b0-99b3-2cecc5322b18" />
+
+
+
+
 
 
