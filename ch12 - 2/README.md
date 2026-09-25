@@ -40,33 +40,9 @@ int* 125의 메모리 값을 사용할 수 없기 때문입니다.
 <img width="1726" height="714" alt="스크린샷 2026-09-25 174927" src="https://github.com/user-attachments/assets/b6e0a1a9-d659-4be1-9b57-25814db96907" />
 
 
-```
-#include<stdio.h>
-intmain(void)
-{
-  int a = 100, b=200;
-  int sum;
-  sum = a + b; //포인터를이용하여수정
-  printf(“두정수의합: %d\n”, sum); //포인터를이용하여수정
-  return 0;
-}
 
+# 실습문제5
 
-
-#include<stdio.h>
-intmain(void)
-{
-  int a = 100, b=200;
-  int* c = *&a;
-  int* d = *&b;
-  printf(“두정수의합: %d\n”, c + d); 
-  return 0;
-}
-```
-
-
-
-실습문제5
 p284 문제1변형
 ```
 #include <stdio.h>
