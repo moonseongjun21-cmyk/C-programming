@@ -20,32 +20,7 @@ doubledb = 3.4;
 # 실습과제2
 
 아래코드에서 변수이름을 사용하지말고 포인터를 사용하여 같은결과가 나오도록 코드를 수정하시오.(예제1번참조)
-```
-#include <stdio.h>
-int main(void)
-{
-    int a = -100;
-    변수선언
-    int* d = &a;
-    포인터 d는 a의 주소
 
-    char b = ‘A’;
-    변수선언
-    char* e = &b;
-    포인터 e는 b의 주소
-    
-    double c = 3.14;
-    변수선언
-    double* f = &c;
-    포인터 f는 c의 주소
-    
-    printf(“int형변수a의값은: %d\n”, *d);
-    printf(“char형변수b의값은: %c\n”, *e)
-    printf(“double형변수c의값은: %lf\n”, *f);
-    *연산자를 통해 메모리 공간의 값 구하기
-    return0;
-}
-```
 
 
 실습과제3
