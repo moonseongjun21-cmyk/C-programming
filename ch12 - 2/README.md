@@ -45,6 +45,11 @@ int* 125의 메모리 값을 사용할 수 없기 때문입니다.
 
 # 실습문제5
 
+교재 284페이지 문제1번 또는 2번을 자유롭게 변형하여 새로운 문제를 만들고 푸시오.
+똑같은 문제를 풀면 0점 처리함
+
+<img width="2350" height="306" alt="image" src="https://github.com/user-attachments/assets/aab75d71-3d1c-4ff8-8acb-c3ccaf11e88a" />
+
 
 
 
