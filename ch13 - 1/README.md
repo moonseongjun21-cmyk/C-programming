@@ -36,6 +36,8 @@ a+i에 간접참조연산자 *를 적용하면 그 위치에 저장된 값을 �
 
 <img width="1714" height="612" alt="스크린샷 2026-09-25 191533" src="https://github.com/user-attachments/assets/1e3bb2fc-5cdf-40f5-8732-09b3ab4ba996" />
 
+`sum += *a++;`에서 a는 배열명(주소)이기 때문에 증감연산자 사용이 불가능합니다.
+
 <img width="2350" height="308" alt="스크린샷 2026-09-25 191955" src="https://github.com/user-attachments/assets/f8e09124-41b9-4c53-baeb-f74cd58264e7" />
 
 
@@ -45,9 +47,7 @@ a+i에 간접참조연산자 *를 적용하면 그 위치에 저장된 값을 �
 
 키보드로부터 입력 받아 저장할 때도 문제처럼 포인터 변수를 증가 시키는 형태의 연산을 이용하여 작성하시오. -> 증감연산자 사용
 
-
-
-
+<img width="2342" height="588" alt="스크린샷 2026-09-25 192514" src="https://github.com/user-attachments/assets/698b1405-f707-4fb2-b53b-ceaf7672ea99" />
 
 # 실습과제5
 
