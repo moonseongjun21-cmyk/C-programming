@@ -1,77 +1,83 @@
-// ***************************************
+// **********************
 // 제 목 : p300 문제2 변형
 // 날 짜 : 2026년 9월 10일
-// 작성자 : 2600065 문성
-// ***************************************
+// 작성자 : 2600065 문성준
+// **********************
 
 #define _CRT_SECURE_NO_WARNINGS
 #pragma warning(disable:6031)
-#include<stdio.h>
+#include <stdio.h>
 
 int main(void)
 {
-    double arr[5];
-    double *ptr = arr;
-    double *temp;
+    double a[5];
+    double* ptr = a;
     int i;
 
-    printf("5개의 실수를 입력하시오.\n");
+    // 배열 표현
+    for (i = 0; i < 5; i++)
+        scanf("%lf", &a[i]);
 
     for (i = 0; i < 5; i++)
-    {
+        a[i] += 2;
+
+    printf("배열 표현: ");
+    for (i = 0; i < 5; i++)
+        printf("%.1f ", a[i]);
+    printf("\n");
+
+
+    // 배열명을 이용한 주소 표현
+    for (i = 0; i < 5; i++)
+        scanf("%lf", a + i);
+
+    for (i = 0; i < 5; i++)
+        *(a + i) += 2;
+
+    printf("배열명을 이용한 주소 표현: ");
+    for (i = 0; i < 5; i++)
+        printf("%.1f ", *(a + i));
+    printf("\n");
+
+
+    // 포인터 변수를 이용한 배열 표현
+    for (i = 0; i < 5; i++)
         scanf("%lf", ptr + i);
-    }
-    
-    for (i = 0; i < 5; i++)
-    {
-      *(ptr + i) += 2.0;
-    }
-
-    printf("1. arr[i] : "); // 배열표현
 
     for (i = 0; i < 5; i++)
-    [
-      printf("%.2f ", arr[i]);
-    }
-    
+        ptr[i] += 2;
+
+    printf("포인터 변수를 이용한 배열 표현: ");
+    for (i = 0; i < 5; i++)
+        printf("%.1f ", ptr[i]);
     printf("\n");
 
-    printf("2. *(arr+i) : "); // 배열명을 이용한 주소표현
+
+    // 포인터 변수를 이용한 주소 표현
+    for (i = 0; i < 5; i++)
+        scanf("%lf", ptr + i);
 
     for (i = 0; i < 5; i++)
-    {
-      printf("%.2f ", *(arr + i));
-    }
+        *(ptr + i) += 2;
 
+    printf("포인터 변수를 이용한 주소 표현: ");
+    for (i = 0; i < 5; i++)
+        printf("%.1f ", *(ptr + i));
     printf("\n");
 
-    printf("3. ptr[i] : "); 포인터 변수를 이용한 배열표현
+
+    // 포인터에 덧셈 연산을 이용한 주소 표현
+    for (i = 0; i < 5; i++)
+        scanf("%lf", ptr + i);
 
     for (i = 0; i < 5; i++)
-    {    
-      printf("%.2f ", ptr[i]);
-    }
+        *(ptr + i) += 2;
 
-    printf("\n");
-
-    printf("4. *(ptr+i) : "); // 포인터 변수를 이용한 주소표현
-
+    printf("포인터 덧셈 연산을 이용한 주소 표현: ");
     for (i = 0; i < 5; i++)
-    {
-      printf("%.2f ", *(ptr + i));
-    }
+        printf("%.1f ", *(ptr + i));
 
-    printf("\n");
-
-    temp = ptr; // 증감연산자를 이용한 주소표현
-
-    printf("5. *temp++ : ");
-
-    for (i = 0; i < 5; i++)
-    {        
-      printf("%.2f ", *(temp++));
-    }
-
-    printf("\n");
+    return 0;
+}
 
    
