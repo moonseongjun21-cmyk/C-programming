@@ -21,14 +21,18 @@ doubledb = 3.4;
 
 아래코드에서 변수이름을 사용하지말고 포인터를 사용하여 같은결과가 나오도록 코드를 수정하시오.(예제1번참조)
 
+<img width="2350" height="362" alt="스크린샷 2026-09-25 174246" src="https://github.com/user-attachments/assets/b0c29414-71a7-498e-ba4c-899a3670ea77" />
 
+# 실습과제3
 
-실습과제3
 ①번라인에서 강제형변환이 사용된 이유를 설명하라.
 정수값을 포인터로 정해줘야 포인터(ptr)이 초기화될 수 있기때문입니다.
 
 아래코드를 실행하면 오류가 발생하여 중단된다. 이유를 자세히 설명하라.
 int* 125의 값이 쓰레기값이기 때문입니다.
+
+<img width="1706" height="578" alt="스크린샷 2026-09-25 174550" src="https://github.com/user-attachments/assets/0fc84767-5d07-4d47-a456-2ce96628c860" />
+
 
 ```
 #include<stdio.h>
