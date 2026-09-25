@@ -50,25 +50,12 @@ a+i에 간접참조연산자 *를 적용하면 그 위치에 저장된 값을 �
 
 
 # 실습과제5
-```#define _CRT_SECURE_NO_WARNINGS
 
-#pragma warning(disable:6031)
+교재300페이지 문제2에서 배열의 초기값을 키보드로부터 5개의 실수를 입력 받아 저장하고 나머지는 문제와 동일하게 푸시오.
 
-#include<stdio.h>
-int main(void)
-{
-	int a[5], i = 0, sum = 0;
-	int* ptr = a;
+키보드로부터 입력 받아 저장할 때도 문제처럼 포인터 변수를 덧셈연산을 하는 형태의 연산을 이용하여 작성하시오.
 
-	while (i < 5)
-	{
-		scanf("%d", &ptr[i]);
-		printf("%d \n", &ptr[i]);
-		ptr[i] += 2;
-		printf("%d \n", ptr[i]);
-		i++;
-	}
+예제 11처럼 5가지 방식으로 코드를 모두 작성해볼 것
 
-	return 0;
-}
-```
+<img width="2342" height="1224" alt="스크린샷 2026-09-25 194734" src="https://github.com/user-attachments/assets/70d64b70-c937-4f6a-806c-2a365a724517" />
+
