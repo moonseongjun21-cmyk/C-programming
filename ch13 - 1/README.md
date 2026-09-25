@@ -22,45 +22,19 @@ a+i에 간접참조연산자 *를 적용하면 그 위치에 저장된 값을 �
 
 다음 코드의 배열 표현을 포인터(주소) 표현으로 변경하시오.
 
-#include<stdio.h>
-int main(void)
-{
-int grade[5];
-int sum = 0, i, average;
-for(i= 0; i< 5; i++)
-{
-printf("성적을 입력하시오: ");
-scanf("%d", &(*(grade +i)));
-}
-for(i= 0; i< 5; i++)
-  sum += *(grade +i);
-
-average = sum / 5.0;
-printf("성적 평균= %d\n", average);
-
-return0;
-}
+<img width="1728" height="942" alt="스크린샷 2026-09-25 191505" src="https://github.com/user-attachments/assets/72346254-e327-4993-a95c-2c48871c65d2" />
 
 
+<img width="2344" height="430" alt="스크린샷 2026-09-25 191257" src="https://github.com/user-attachments/assets/7971263b-4eea-42f4-8238-4291c913e7da" />
 
 # 실습과제3
 
 증감연산자 a++, ++a의 차이를 설명하시오. 
-후위증가와 전위증가입니다.
+후위증가와 전위증가
 
 다음 코드의 문제점을 설명하고 포인터를 이용하여 문제를 해결하시오.
 
-```#include<stdio.h>
-int main(void)
-{
-int a[] = { 10, 20, 30 }, i, sum = 0;
-
-for (i = 0; i < 3; i++)
-  sum += *(a + i);
-printf("sum:%d\n", sum);
-return0;
-}
-```
+<img width="1714" height="612" alt="스크린샷 2026-09-25 191533" src="https://github.com/user-attachments/assets/1e3bb2fc-5cdf-40f5-8732-09b3ab4ba996" />
 
 
 
