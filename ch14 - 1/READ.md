@@ -36,59 +36,21 @@
 
 <img width="802" height="178" alt="스크린샷 2026-09-25 202302" src="https://github.com/user-attachments/assets/05d35974-e1e5-452b-918e-e881b65b1e68" />
 
+<img width="2350" height="420" alt="스크린샷 2026-09-25 202521" src="https://github.com/user-attachments/assets/90a0a4c2-c0ff-42ce-ab44-1ee8ed62e651" />
+
 # 실습과제4
 
 swap함수 예제를 참고하여 아래 결과가 나오도록 코드를 수정 하시오. 
+
 세 정수를 교환하는 부분은 반드시 함수(swap)로 작성하고 또, 함수의 선언, 호출, 정의를 모두 사용할 것.
+
 세 정수의 교환방법은 실행결과로부터 유추하라.
+
+<img width="950" height="356" alt="스크린샷 2026-09-25 202606" src="https://github.com/user-attachments/assets/3ff74be9-3616-4843-a1f2-9a7a04595757" />
+
 24페이지처럼 시간에 따라 메모리의 상태를 그려보시오.
 
-정수x를 입력 하시오:10<엔터>
-정수y를 입력 하시오:20<엔터>
-정수z를 입력 하시오:30<엔터>
-swap함수 호출 전 x=10, y=20, z=30
-swap함수 호출 후 x=20, y=30, z=10
-```
-#define _CRT_SECURE_NO_WARNINGS
-#pragma warning(disable:6031)
-#include <stdio.h>
-
-int swap(int* a, int* b, int* c);
-
-int main(void)
-{
-	int x, y, z;
-
-	printf("정수x를 입력 하시오:");
-	scanf("%d", &x);
-	
-	printf("정수y를 입력 하시오:");
-	scanf("%d", &y);
-
-	printf("정수z를 입력 하시오:");
-	scanf("%d", &z);
-
-	printf("swap함수 호출 전 x=%d y=%d z=%d \n", x, y, z);
-
-	swap(&x, &y, &z);
-	printf("swap함수 호출 후 x=%d y=%d z=%d", x, y, z);
-
-	return 0;
-}
-
-int swap(int* a, int* b, int* c)
-{
-	int tmp;
-
-	tmp = *a;
-	*a = *b;
-	*b = *c;
-	*c = tmp;
-}
-```
-
-
-실습과제5
+# 실습과제5
 
 교재320페이지 문제1번을 푸시오. 
 단, num 변수에 저장된 값을 100배 하는 함수로 수정하라.
