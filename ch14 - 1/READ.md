@@ -48,12 +48,14 @@ swap함수 예제를 참고하여 아래 결과가 나오도록 코드를 수정
 
 <img width="950" height="356" alt="스크린샷 2026-09-25 202606" src="https://github.com/user-attachments/assets/3ff74be9-3616-4843-a1f2-9a7a04595757" />
 
-24페이지처럼 시간에 따라 메모리의 상태를 그려보시오.
+<img width="2330" height="412" alt="스크린샷 2026-09-25 202814" src="https://github.com/user-attachments/assets/9b586444-17a5-41fc-b777-c1fa8c1f0fff" />
 
 # 실습과제5
 
 교재320페이지 문제1번을 푸시오. 
+
 단, num 변수에 저장된 값을 100배 하는 함수로 수정하라.
+
 함수의 선언, 호출, 정의를 모두 사용할 것
 
 2가지 방식의 차이를 설명하고 원하는 결과는 어느 것인가?
@@ -61,56 +63,7 @@ swap함수 예제를 참고하여 아래 결과가 나오도록 코드를 수정
 값에 의한 호출방식으로 다른 함수에서 선언된 지역변수의 값을 변경하는 것은 불가능합니다.
 주소에 의한 호출방식은 다른 함수에서 선언된 지역변수의 값을 변경하는 것은 가능합니다.
 
-Call-by-value
-```
-#define _CRT_SECURE_NO_WARNINGS
-#pragma warning(disable:6031)
-#include <stdio.h>
 
-int SquareByValue(int num2);
-
-int main(void)
-{
-	int num = 2;
-	printf("num:%d \n", num);
-
-	num = SquareByValue(num);
-	printf("함수 호출 후 num:%d", num);
-
-	return 0;
-}
-
-int SquareByValue(int num2)
-{
-	num2 = 100 * num2;
-
-	return num2;
-}
-```
-Call-by-reference
-```
-#define _CRT_SECURE_NO_WARNINGS
-#pragma warning(disable:6031)
-#include <stdio.h>
-
-int SquareByReference(int* num2);
-
-int main(void)
-{
-	int num = 2;
-	printf("num:%d \n", num);
-
-	SquareByReference(&num);
-	printf("함수 호출 후 num:%d", num);
-
-	return 0;
-}
-
-int SquareByReference(int* num2)
-{
-	*num2 *= 100;
-}
-```
 
 
 
