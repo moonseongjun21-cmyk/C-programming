@@ -63,4 +63,5 @@ const 선언을 사용하는 이유를 설명 하시오. 교재 322~323페이지
 
 <img width="952" height="504" alt="스크린샷 2026-09-29 195335" src="https://github.com/user-attachments/assets/9d9f2576-21b5-4350-bccb-73993f753616" />
 
+<img width="2346" height="466" alt="스크린샷 2026-09-29 195654" src="https://github.com/user-attachments/assets/4a7a3137-c762-4b50-b57e-1bab90640b6b" />
 
