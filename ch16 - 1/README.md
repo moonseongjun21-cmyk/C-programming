@@ -14,3 +14,10 @@
 
 3명 학생의 국어, 영어, 수학 성적을 입력받아 각 학생의 평균값을 구한 후 최우수 학생의 성적을 출력하는 프로그램을 작성하라.
 
+<img width="2344" height="406" alt="스크린샷 2026-10-01 201026" src="https://github.com/user-attachments/assets/52f35eb6-4ec7-47c0-8f5d-554caadf7476" />
+
+# 실습과제3
+
+다음 행렬을 2차원 배열에 저장하고 원소중에서 최대값과 위치를 구하는 프로그램을 작성하라.
+
+<img width="568" height="380" alt="스크린샷 2026-10-01 201242" src="https://github.com/user-attachments/assets/063e48b5-5d5b-4fca-abd6-d09c2631af3b" />
