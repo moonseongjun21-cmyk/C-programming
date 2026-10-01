@@ -11,3 +11,6 @@
 <img width="2348" height="418" alt="스크린샷 2026-10-01 173138" src="https://github.com/user-attachments/assets/d3618557-3bf4-491f-bf5b-ae5c6c2a12c9" />
 
 # 실습과제2
+
+3명 학생의 국어, 영어, 수학 성적을 입력받아 각 학생의 평균값을 구한 후 최우수 학생의 성적을 출력하는 프로그램을 작성하라.
+
