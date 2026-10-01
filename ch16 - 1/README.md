@@ -42,5 +42,8 @@ char str[4][10]; -> i번째 행의 시작주소 -> &str[i][0]
 
 char str[4][10]; -> i번째 행의 시작 주소 -> &str[i][0]
 
+<img width="2350" height="426" alt="스크린샷 2026-10-01 213501" src="https://github.com/user-attachments/assets/b12a66ee-7324-45ec-86bc-29b29f64e128" />
+
+
 
 
