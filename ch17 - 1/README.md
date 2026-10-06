@@ -33,13 +33,13 @@
 
 # 실습과제4
 
+교재 368페이지의 문제 17-1을 푸시오. 
+
+소스코드의 모든 라인을 자세히 설명하시오. 
+
+메모리 그림을 이용하여 설명할것.
+
+<img width="2344" height="482" alt="스크린샷 2026-10-06 203833" src="https://github.com/user-attachments/assets/5dc9207c-f88f-4b8c-9cdf-166ee0bb0fd5" />
 
 
 
-
-
-
-
-
-
-시오.
