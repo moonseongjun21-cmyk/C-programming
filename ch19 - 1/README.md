@@ -40,6 +40,7 @@ void포인터에 연산을 적용할 때 에는 반드시 강제형변환하여 
 
 인터넷에서 함수의 매개변수에 void포인터를 활용하는 예제를 찾아 실행해보고 코드를 설명하시오.
 
+<img width="2336" height="366" alt="스크린샷 2026-10-08 170053" src="https://github.com/user-attachments/assets/4ced5aa3-92fd-4728-9d8d-25014463181b" />
 
 
 
