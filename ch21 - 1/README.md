@@ -54,4 +54,8 @@ scanf 함수는 키보드에서 데이터를 입력 받는게 아니라 입력 �
 
 이유 : 입력완료문자인 엔터키(‘\n’)는 버퍼에 남았기 때문 입니다.
 
+수정 후 출력결과
+
+<img width="2354" height="384" alt="image" src="https://github.com/user-attachments/assets/c72eeccf-3480-485e-8c79-db5f5cce1a55" />
+
 
