@@ -42,3 +42,10 @@ scanf 함수는 키보드에서 데이터를 입력 받는게 아니라 입력 �
 
 <img width="810" height="454" alt="image" src="https://github.com/user-attachments/assets/5fc1626b-4239-43b2-92a3-6e373fdb137a" />
 
+<img width="2350" height="500" alt="image" src="https://github.com/user-attachments/assets/74b556f9-cd38-41f4-a5fa-a557e45fac49" />
+
+# 실습과제3
+
+
+
+
