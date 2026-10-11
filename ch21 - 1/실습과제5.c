@@ -4,16 +4,23 @@
 // 작성자 : 2600065 문성준
 // ******************************************
 
-#include<stdio.h>
+수정 후
+#include <stdio.h>
 
 int main(void)
 {
-  char str[20];
-  
-  printf(“문자열을 입력하시오:”);
-  scanf(“%s”, str); 
-  
-  printf(“문자열: %s\n”, str);
-  
-  return 0;
+    char str[20];
+    int i = 0;
+    char ch;
+
+    printf("문자열을 입력하시오: ");
+
+    while ((ch = getchar()) != '\n' && i < 19) {
+        str[i++] = ch;
+    }
+    str[i] = '\0';  // 문자열 끝에 널문자 추가
+
+    printf("문자열: %s\n", str);
+
+    return 0;
 }
