@@ -58,4 +58,16 @@ scanf 함수는 키보드에서 데이터를 입력 받는게 아니라 입력 �
 
 <img width="2354" height="384" alt="image" src="https://github.com/user-attachments/assets/c72eeccf-3480-485e-8c79-db5f5cce1a55" />
 
+# 실습과제4
+
+다음 코드의 실행결과를 자세히 설명하라. 
+
+19, 21페이지의 그림처럼 반복문 실행단계별로 버퍼의 상태를 그리고 설명하라.
+
+<img width="1898" height="866" alt="image" src="https://github.com/user-attachments/assets/ebf27793-c37d-47d4-9df7-de1a65a480ef" />
+
+# 실습과제5
+
+
+
 
