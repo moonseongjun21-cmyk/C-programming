@@ -10,24 +10,23 @@
 
 int main(void)
 {
-    char str[100];
-    int i;
+	char s[20];
 
-    printf("문자열을 입력하시오:");
-    scanf("%s", str);
+	printf("문자열을 입력하시오:");
+	scanf("%s", &s);
 
-    for (i = 0; str[i] != '\0'; i++)
-    {
-        if (str[i] >= 'A' && str[i] <= 'Z')
-        {
-            str[i] = str[i] + ('a' - 'A');
-        }
-        else if (str[i] >= 'a' && str[i] <= 'z')
-        {
-          str[i] = str[i] - ('a' - 'A'); 
-        }
-    }
-    printf("변환결과 : %s\n", str);
+	for (int i = 0; s[i] != '\0'; i++)
+	{
+		if (s[i] < 'a') // 대문자라는 뜻
+		{
+			s[i] += 32;
+		}
+		else if (s[i] >= 'a') // 소문자라는 뜻
+		{
+			s[i] -= 32;
+		}
+	}
+	printf("반환결과 : %s", s);
 
-    return 0;
+	return 0;
 }
