@@ -33,3 +33,15 @@ gets, fgets
 <img width="2348" height="490" alt="image" src="https://github.com/user-attachments/assets/93d10f5a-7e10-4350-aa74-3d37fdda1d68" />
 
 # 실습과제3
+
+아래 결과처럼 실행되도록 문자열 입출력 전용함수를 이용하여 코드를 작성하시오.
+
+한글은 한문자를 2바이트로 저장함
+
+<img width="954" height="488" alt="image" src="https://github.com/user-attachments/assets/363685b0-da33-41ee-b252-ab5a610068c5" />
+
+<img width="2338" height="496" alt="스크린샷 2026-10-26 014752" src="https://github.com/user-attachments/assets/ac4cf7f2-bbf0-415b-8746-e11a02782e16" />
+
+# 실습과제4
+
+
