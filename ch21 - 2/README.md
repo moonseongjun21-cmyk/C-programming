@@ -52,3 +52,10 @@ gets, fgets
 
 <img width="2342" height="356" alt="image" src="https://github.com/user-attachments/assets/a76528e5-9865-46bf-960f-4a1a79860200" />
 
+# 실습과제5
+
+공백을 포함하는 문자열을 입력 받아 단어 수를 계산하여 출력하는 코드를 작성하라.
+
+공백을 이용하여 단어를 구분할 것
+
+<img width="2346" height="340" alt="image" src="https://github.com/user-attachments/assets/a7a55bfa-f9b2-4644-98d1-8266101cfac4" />
