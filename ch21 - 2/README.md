@@ -44,4 +44,11 @@ gets, fgets
 
 # 실습과제4
 
+아래 코드에서 fgets함수는 엔터키까지 저장해주므로 출력하면 줄바꿈이 발생한다. 
+
+엔터키를 널문자로 변경하는 코드를 추가하여 줄바꿈이 발생하지 않도록 해보시오
+
+<img width="1698" height="614" alt="스크린샷 2026-10-26 020049" src="https://github.com/user-attachments/assets/bae7c2ab-7e76-4f3e-8d73-972316d3d030" />
+
+<img width="2342" height="356" alt="image" src="https://github.com/user-attachments/assets/a76528e5-9865-46bf-960f-4a1a79860200" />
 
