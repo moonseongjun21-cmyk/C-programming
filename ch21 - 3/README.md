@@ -26,3 +26,5 @@
 
 문자열의 마지막에는 널문자를 추가 저장한다.
 
+<img width="1736" height="732" alt="image" src="https://github.com/user-attachments/assets/10432ff0-4496-4e3e-aeb5-12eda70b3fc1" />
+
