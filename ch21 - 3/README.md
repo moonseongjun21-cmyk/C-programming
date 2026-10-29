@@ -28,3 +28,40 @@
 
 <img width="1736" height="732" alt="image" src="https://github.com/user-attachments/assets/10432ff0-4496-4e3e-aeb5-12eda70b3fc1" />
 
+<img width="2344" height="396" alt="image" src="https://github.com/user-attachments/assets/a5c1c96b-ab26-4678-86cf-5a143150da84" />
+
+# 실습과제4
+
+아래 실행결과처럼 동작하도록 my_strcat함수의 선언과 정의를 추가하시오. 
+
+힌트: while문을 사용하여 널 문자를 만날 때까지 문자를 이어준다. 
+
+문자열의 마지막에는 널 문자를 추가 저장한다.
+
+<img width="1712" height="718" alt="image" src="https://github.com/user-attachments/assets/efd4bf01-c8c7-4d3c-ab10-ac2e73ce2c90" />
+
+<img width="2342" height="354" alt="image" src="https://github.com/user-attachments/assets/ae9b10e8-580d-462b-b81e-cfbb7134b175" />
+
+# 실습과제5
+
+단어 5개를 입력받고 사전에서 제일 앞과 뒤에 나오는 단어를 각각 출력하시오.
+
+문자열의 최대, 최소 값은 각각 사전에서 제일 앞, 뒤에 나오는 단어임, 문자열의 대소는 strcmp함수 이용할것
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
