@@ -48,6 +48,7 @@
 
 문자열의 최대, 최소 값은 각각 사전에서 제일 앞, 뒤에 나오는 단어임, 문자열의 대소는 strcmp함수 이용할것
 
+<img width="2338" height="474" alt="스크린샷 2026-10-29 211343" src="https://github.com/user-attachments/assets/f68dd0eb-36d1-45be-8da4-c872dc8a2741" />
 
 
 
