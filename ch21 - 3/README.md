@@ -15,3 +15,14 @@
 널문자를 만날 때 까지 문자의 개수를 카운트한다.
 
 <img width="1708" height="840" alt="image" src="https://github.com/user-attachments/assets/433aabe2-5f2b-4eec-8fe4-2751b94f9eb1" />
+
+<img width="2344" height="432" alt="image" src="https://github.com/user-attachments/assets/bc430f39-54b0-4356-9efd-668069676192" />
+
+# 실습과제3
+
+아래 실행결과처럼 동작하도록 my_strcpy함수의 선언과 정의를 추가하시오. 
+
+힌트: while문을 사용하여 널문자를 만날때까지 문자를 하나씩 복사한다. 
+
+문자열의 마지막에는 널문자를 추가 저장한다.
+
