@@ -4,6 +4,10 @@
 // 작성자 : 2600065 문성준
 // ******************************************
 
+#define _CRT_SECURE_NO_WARNINGS
+#pragma warning(disable:6031)
+#include <stdio.h>
+
 struct student
 {
 	int n;
