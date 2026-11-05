@@ -6,7 +6,7 @@
 
 <img width="1162" height="540" alt="image" src="https://github.com/user-attachments/assets/f2dd3f90-8546-4f1b-bd30-588a584061ea" />
 
-<img width="2346" height="1220" alt="스크린샷 2026-11-05 170938" src="https://github.com/user-attachments/assets/2ba40305-4b0f-43d9-b51d-791092184885" />
+<img width="2346" height="518" alt="스크린샷 2026-11-05 170938" src="https://github.com/user-attachments/assets/46f11408-151b-445d-81a1-869b5f4f74df" />
 
 # 실습과제 2
 
