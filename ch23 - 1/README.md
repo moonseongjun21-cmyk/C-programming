@@ -32,6 +32,8 @@ typedef 를 반드시 사용하고 키보드로부터 정보를 입력 받아 �
 
 <img width="554" height="231" alt="image" src="https://github.com/user-attachments/assets/e7c3c2f6-da36-48b8-a249-1f96cf6d9619" />
 
+<img width="2341" height="468" alt="image" src="https://github.com/user-attachments/assets/58507e6b-d784-43e1-9b50-5f7dbe4b7d5c" />
+
 # 실습과제4
 
 예제7번에서 스왑부분을 함수로 구현하시오. 
