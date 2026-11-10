@@ -8,6 +8,8 @@
 
 <img width="559" height="221" alt="image" src="https://github.com/user-attachments/assets/c2f4945c-a051-4bfc-b875-a50a1f21f381" />
 
+<img width="2316" height="718" alt="image" src="https://github.com/user-attachments/assets/0dcf590a-a858-4bc6-a355-3de2b112883d" />
+
 # 실습과제2
 
 이름, 점수를 멤버로 가지는 구조체를 정의하고 다음처럼 3명의 정보를 키보드로부터 입력 받아 최우수 학생을 구하여 화면에 출력하는 프로그램을 작성하라.
