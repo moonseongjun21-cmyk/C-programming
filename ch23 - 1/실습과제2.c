@@ -15,16 +15,16 @@ typedef struct student
 }STUDENT;
 
 void get_data(STUDENT arr2[]);
-int get_best(STUDENT* arr2[]);
+STUDENT get_best(STUDENT* arr2[]);
 
 int main(void)
 {
 	STUDENT arr[3];
 
 	get_data(arr);
-	int b = get_best(arr);
+	STUDENT b = get_best(arr);
 
-	printf("최우수학생의 이름은 %s, 점수는 %d", arr[b].name, arr[b].score);
+	printf("최우수학생의 이름은 %s, 점수는 %d", b.name, b.score);
 
 	return 0;
 }
@@ -38,15 +38,15 @@ void get_data(STUDENT arr2[])
 	}
 }
 
-int get_best(STUDENT arr2[])
+STUDENT get_best(STUDENT arr2[])
 {
-	int n = 0;
+	STUDENT n = arr2[0];
 
 	for (int i = 1; i < 3; i++)
 	{
-		if (arr2[n].score < arr2[i].score)
+		if (n.score < arr2[i].score)
 		{
-			n = i;
+			n = arr2[i];
 		}
 	}
 	return n;
