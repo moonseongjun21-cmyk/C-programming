@@ -48,4 +48,7 @@ typedef 를 반드시 사용하고 키보드로부터 정보를 입력 받아 �
 
 교재 484페이지의 문제 23-1번을 푸시오.
 
+<img width="2347" height="336" alt="image" src="https://github.com/user-attachments/assets/bc382830-759a-49b5-b741-140e5e9d6c54" />
+
+
 
