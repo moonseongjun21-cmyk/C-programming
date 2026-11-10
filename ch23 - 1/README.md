@@ -42,6 +42,8 @@ typedef 를 반드시 사용하고 키보드로부터 정보를 입력 받아 �
 
 <img width="843" height="316" alt="image" src="https://github.com/user-attachments/assets/bc6fc7d2-92fe-4c34-b8b6-587b4e231e19" />
 
+<img width="2346" height="326" alt="image" src="https://github.com/user-attachments/assets/23a366a7-0d26-4192-8f15-9b3d468ff705" />
+
 # 실습과제5
 
 교재 484페이지의 문제 23-1번을 푸시오.
