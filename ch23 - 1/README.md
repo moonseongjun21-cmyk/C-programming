@@ -20,6 +20,8 @@ typedef 를 반드시 사용하고 키보드로 부터 정보를 입력받아 �
 
 <img width="559" height="228" alt="image" src="https://github.com/user-attachments/assets/63c3810a-2c80-42bb-9d86-770d1c62ae7b" />
 
+<img width="2344" height="506" alt="image" src="https://github.com/user-attachments/assets/f9ac66d6-d47a-451c-a6d2-d4a1ad93a345" />
+
 # 실습과제3
 
 이름, 점수를 멤버로 가지는 구조체를 정의하고 다음처럼 3명의 정보를 키보드로부터 입력 받아 이름이 사전에서 제일 앞에 나오는 사람을 구하여 화면에 출력하는 프로그램을 작성하라.
