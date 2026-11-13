@@ -20,6 +20,8 @@
 
 <img width="1224" height="366" alt="image" src="https://github.com/user-attachments/assets/854cb5d4-9d00-4a4c-9e44-c0192adfe886" />
 
+<img width="2340" height="406" alt="image" src="https://github.com/user-attachments/assets/416a927d-5ee3-4688-914a-598bf50a3f74" />
+
 # 실습과제4
 
 아래 코드를 열거형을 이용하여 가독성이 높은 코드로 수정해보시오.
