@@ -2,9 +2,15 @@
 
 구조체가 왜 필요한지 설명하시오.
 
+여러 자료형을 묶어서 편하게 관리할 수 있기 때문입니다.
+
 공용체가 왜 필요한지 설명하시오.
 
+하나의 메모리 공간을 2개 이상의 방식으로 접근 가능하기 때문입니다.
+
 열거형이 왜 필요한지 설명하시오.
+
+기본자료형과 달리 자료형이 가질 수 있는 값을 사용자가 원하는대로 지정할 수 있기 때문입니다.
 
 # 실습과제2
 
@@ -27,3 +33,6 @@
 아래 코드를 열거형을 이용하여 가독성이 높은 코드로 수정해보시오.
 
 <img width="1716" height="854" alt="image" src="https://github.com/user-attachments/assets/2459e4f9-2b4f-41f6-9e44-7a1cdf128780" />
+
+<img width="2346" height="398" alt="image" src="https://github.com/user-attachments/assets/80e67cb4-6249-4b77-84d4-4e196545dcd8" />
+
