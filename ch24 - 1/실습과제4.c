@@ -33,18 +33,23 @@ int main(void)
 		fclose(fp);
 		return -1;
 	}
-	while (1)
+	while ((ch = fgetc(fp)) != EOF)
 	{
-		ch = fgetc(fp);
-		if (ch == EOF)
-		{
-			break;
-		}
 		if (ch == '.')
 		{
+			fputc(ch, fp2);
 			fputc('\n', fp2);
+
+			ch = fgetc(fp);
+			if (ch != ' ' && ch != EOF)
+			{
+				fputc(ch, fp2);
+			}
 		}
-		fputc(ch, fp2);
+		else
+		{
+			fputc(ch, fp2);
+		}
 	}
 	fclose(fp);
 	fclose(fp2);
