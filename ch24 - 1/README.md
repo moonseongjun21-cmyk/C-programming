@@ -24,6 +24,8 @@
 
 <img width="1171" height="385" alt="image" src="https://github.com/user-attachments/assets/086a471f-4b7e-4460-8bc5-ab8465a2f673" />
 
+<img width="2346" height="438" alt="image" src="https://github.com/user-attachments/assets/7c6588e7-d63b-4579-ba4a-2d9e18917c8d" />
+
 # 실습과제3
 
 키보드로부터 문자열을 입력 받고 입력된 문자열을 아래 그림처럼 파일(result.txt)에 저장하는 프로그램을 작성하시오.
