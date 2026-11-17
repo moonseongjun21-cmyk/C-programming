@@ -8,6 +8,10 @@
 
 <img width="1064" height="448" alt="image" src="https://github.com/user-attachments/assets/2c73b05e-938f-4b7f-92a5-a64e57f5beb5" />
 
+<img width="2348" height="314" alt="image" src="https://github.com/user-attachments/assets/46422571-a902-4ff1-b143-860dbfb6c943" />
+
+<img width="664" height="574" alt="image" src="https://github.com/user-attachments/assets/620a3f8f-60f8-4cf0-a108-85e0a772ab88" />
+
 # 실습과제2
 
 먼저 메모장을 이용하여 텍스트파일(test.txt)을 작성하고 프로젝트폴더에 저장하라. 
