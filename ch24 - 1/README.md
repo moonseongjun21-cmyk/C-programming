@@ -16,7 +16,7 @@
 
 텍스트 파일(test.txt)의 내용을 읽어서 모니터 화면에 1줄씩 출력하는 프로그램을 작성하시오. 
 
-마침표를 이용하여 줄바꿈 할 것
+마침표를 이용하여 줄바꿈 할 것.
 
 <img width="1171" height="385" alt="image" src="https://github.com/user-attachments/assets/086a471f-4b7e-4460-8bc5-ab8465a2f673" />
 
