@@ -34,6 +34,10 @@
 
 <img width="839" height="429" alt="image" src="https://github.com/user-attachments/assets/b37626ff-28ab-487d-8f1d-896b6313d325" />
 
+<img width="2354" height="366" alt="image" src="https://github.com/user-attachments/assets/85a26e9a-45d6-4c0d-82d0-760007a6fac0" />
+
+<img width="2136" height="366" alt="image" src="https://github.com/user-attachments/assets/42cebaa0-9ef9-463e-be55-27ee9f759b90" />
+
 # 실습과제4
 
 텍스트 파일(test.txt)의 내용을 1줄씩 줄바꿈하여 파일(result.txt)에 출력하는 프로그램을 작성하시오. 
