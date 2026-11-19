@@ -4,11 +4,19 @@
 
 <img width="1190" height="664" alt="image" src="https://github.com/user-attachments/assets/e26ed455-3ad1-4f63-a4a4-61dac0a5b853" />
 
+<img width="2342" height="348" alt="image" src="https://github.com/user-attachments/assets/7099a73c-4a81-400d-b216-adaf243b475a" />
+
+<img width="674" height="362" alt="image" src="https://github.com/user-attachments/assets/cc2b4fdc-bc41-4cb8-aea6-25c13cca3ddb" />
+
 # 실습과제2
 
 메모장에서 input.txt파일을 작성하고(인코딩 ANSI으로 설정) 파일에서 3과목 점수를 입력 받아 총점과 평균점수를 계산하여 output.txt파일에 다음처럼 출력하는 코드를 작성하시오.
 
 <img width="1294" height="516" alt="image" src="https://github.com/user-attachments/assets/f98bb593-8065-44f6-bb4a-faea2e226873" />
+
+<img width="2346" height="244" alt="image" src="https://github.com/user-attachments/assets/bbcbe417-c306-407d-93db-0e0a8c824e67" />
+
+<img width="648" height="326" alt="image" src="https://github.com/user-attachments/assets/4942af2c-eb20-4268-be0c-2253964289b2" />
 
 # 실습과제3
 
