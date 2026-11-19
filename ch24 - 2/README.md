@@ -16,6 +16,8 @@
 
 <img width="2346" height="244" alt="image" src="https://github.com/user-attachments/assets/bbcbe417-c306-407d-93db-0e0a8c824e67" />
 
+<img width="624" height="326" alt="image" src="https://github.com/user-attachments/assets/20b4703a-83c3-40d9-91ba-ce0320c9a71c" />
+
 <img width="648" height="326" alt="image" src="https://github.com/user-attachments/assets/4942af2c-eb20-4268-be0c-2253964289b2" />
 
 # 실습과제3
@@ -23,6 +25,9 @@
 메모장에서 input.txt파일을 작성하고(인코딩 ANSI로 설정) 이 파일로부터 3과목 점수를 입력 받아 총점과평균점수를계산하여 성적순으로output.txt 파일에 다음처럼 출력하는 코드를 작성하시오.
 
 <img width="1274" height="480" alt="image" src="https://github.com/user-attachments/assets/69e8218c-60b7-4451-ba54-4144dca2846b" />
+
+<img width="624" height="326" alt="image" src="https://github.com/user-attachments/assets/3c99314e-985b-4b6e-be68-09745393d9c2" />
+
 
 # 실습과제4
 
