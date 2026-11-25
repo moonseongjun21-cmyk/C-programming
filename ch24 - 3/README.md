@@ -21,13 +21,3 @@ a.txt의 내용과 같은지 확인할 것.
 
 <img width="2348" height="640" alt="image" src="https://github.com/user-attachments/assets/bf5105a6-db21-493d-a9ff-83b6ef0535cc" />
 
-# 실습과제3
-
-실습과제 1번에서 생성한 a.txt와 b.bin 파일의 크기를 바이트 단위로 계산하여 출력하는 프로그램을 작성하라. 
-
-그리고 파일속성에서 결과가 맞는지 확인할 것.
-
-힌트: 텍스트모드로 열때는 윈도우에서는 \n는 \r\n으로 저장됨을 고려하고, 텍스트파일도 바이너리 모드로 열기 가능하므로 바이너리로 열어서 파일끝이 나올때까지 바이트
-를 세면됨, 바이너리 모드일때는 \r\n을 모두 그대로 읽어줌.
-
-<img width="1212" height="534" alt="image" src="https://github.com/user-attachments/assets/50e0eb40-49c3-4209-9a84-1bccd17c1d71" />
