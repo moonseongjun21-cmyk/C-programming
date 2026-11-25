@@ -19,7 +19,7 @@ a.txt의 내용과 같은지 확인할 것.
 
 <img width="306" height="534" alt="image" src="https://github.com/user-attachments/assets/5ae7abb8-4b2a-4945-86d5-afcdc4b92cbb" />
 
-
+<img width="2348" height="640" alt="image" src="https://github.com/user-attachments/assets/bf5105a6-db21-493d-a9ff-83b6ef0535cc" />
 
 # 실습과제3
 
